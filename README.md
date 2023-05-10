@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hello people!!! 👋
 
-- 🌱 I’m currently learning to exist
+- 🌱 Currently learning to exist
+- 💻 Loves open-source applications and tech
 - 💬 Ask me about troubleshooting
+
 
 <!--
 **Suriya2210/Suriya2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

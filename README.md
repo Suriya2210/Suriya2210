@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning to exist
+- 💬 Ask me about troubleshooting
+
 <!--
 **Suriya2210/Suriya2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

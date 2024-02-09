@@ -1,6 +1,6 @@
 ### Hello people!!! 👋
 
-- 🌱 Currently learning to exist
+- 🌱 Breathe. Relax. Exist.
 - 💻 Loves open-source applications and tech
 - 🏎️ Into cars but doesn't own one
 - 💬 Ask me about troubleshooting

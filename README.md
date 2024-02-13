@@ -2,6 +2,7 @@
 
 - 🌱 Breathe. Relax. Exist.
 - 💻 Loves open-source applications and tech
+- 📱 Owns a Legion 5 (2020) & a Galaxy S21 FE
 - 🏎️ Into cars but doesn't own one
 - 💬 Ask me about troubleshooting
 - 🎮 Casual gamer (Fan of NieR)
